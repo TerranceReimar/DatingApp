@@ -30,3 +30,4 @@
 /Users/terrance/Desktop/Programming/DatingApp/API/obj/Debug/net8.0/API.pdb
 /Users/terrance/Desktop/Programming/DatingApp/API/obj/Debug/net8.0/API.genruntimeconfig.cache
 /Users/terrance/Desktop/Programming/DatingApp/API/obj/Debug/net8.0/ref/API.dll
+/Users/terrance/Desktop/Programming/DatingApp/API/obj/Debug/net8.0/API.sourcelink.json
